@@ -1,0 +1,26 @@
+package DegiskenKavrami;
+
+public class İlkelVeriTipleri {
+    public static void main(String[] args) {
+    
+        int i = 10; //Float değer tanımlanamaz.
+        double k = 10.50;
+        
+        //Tamsayı veri  türleri
+        
+        System.out.println(Byte.MIN_VALUE +  " < byte < " + Byte.MAX_VALUE  + "  --  Bit : "  + Byte.SIZE); // Ctrl + D  = satırın sonuna gelindiğinde, satırı bir alt satıra kopyalar.
+        System.out.println(Short.MIN_VALUE +  " < short < " + Short.MAX_VALUE  + "  --  Bit : "  + Short.SIZE);
+        System.out.println(Integer.MIN_VALUE +  " <  integer < " + Integer.MAX_VALUE  + "  --  Bit : "  + Integer.SIZE);
+        System.out.println(Long.MIN_VALUE +  " <  long < " + Long.MAX_VALUE  + "  --  Bit : "  +  Long.SIZE);
+        
+        //Ondalıklı veri türleri
+        
+        System.out.println(Float.MIN_VALUE +  " <  float < " + Float.MAX_VALUE  + "  --  Bit : "  +  Float.SIZE);
+        System.out.println(Double.MIN_VALUE +  " < double < " + Double.MAX_VALUE  + "  --  Bit : "  + Double.SIZE);
+        
+        //  En küçük- büyük değerler ve boyut özellikleri.
+
+
+
+    }
+}
