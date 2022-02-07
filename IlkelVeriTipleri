@@ -19,6 +19,31 @@ public class İlkelVeriTipleri {
         System.out.println(Double.MIN_VALUE +  " < double < " + Double.MAX_VALUE  + "  --  Bit : "  + Double.SIZE);
         
         //  En küçük- büyük değerler ve boyut özellikleri.
+        
+        
+        //Tek değer.
+        char harf = 'a';
+        char sayi = '1';
+
+        System.out.println("Tek harf : " + harf + " -- Tek sayı : " + sayi + "Char Bit : ");
+
+        int degerA = 'A';
+        System.out.println("A'nın değreri : " + degerA);
+
+        int degerB = 'B';
+        System.out.println("B'nin değreri : " + degerB);
+
+        int deger = '^';
+        System.out.println("^'nın değreri : " + deger);
+
+
+        //Boolean
+
+        boolean a = true;
+        System.out.println("a = " + a);
+        a = false;
+        System.out.println("a = " + a);
+
 
 
 
