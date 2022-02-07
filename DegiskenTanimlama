@@ -1,0 +1,23 @@
+package com.company;
+
+public class DegiskenTanimlama  {
+    public static void main (String [] args) {
+       int i = 5;
+       int k = 88;
+       //Tanımlama yapılır.
+       i = 55;
+       k = 77;
+       //Tanımlanan değer değiştirilir.
+
+        int a = 10;  int b = 15;
+        //Aynı satırda tanımlama yapılabilir.
+
+        System.out.println("i'nin değeri : " + i + " - k'nın değeri : " + k );
+        
+        
+        
+        
+    }
+}
+
+        
