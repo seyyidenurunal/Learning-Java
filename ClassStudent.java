@@ -4,21 +4,12 @@ public class ClassStudent {
     
     //bknz. StudentClass...
 
-    private int no;
-    private String isim;
-    private int sınıf;
-    private boolean aktif;
+    int no;
+    String isim;
+    int sınıf;
+    boolean aktif;
 
-    public void setNo(int yeniNo){
-        this.no = yeniNo;
-    }
-
-    public void setSınıf(int yeniSınıf){
-        this.sınıf = yeniSınıf;
-    }
-
-
-
+   
     public ClassStudent(){
 
     }
