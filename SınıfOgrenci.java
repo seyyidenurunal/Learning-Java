@@ -1,6 +1,7 @@
 package Encapsulation;
 
 public class SınıfOgrenci {
+    //bknz. OgrenciSınıf...
 
     public static void main(String[] args) {
 
