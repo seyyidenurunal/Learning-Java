@@ -1,6 +1,8 @@
 package OOP;
 
 public class ClassStudent {
+    
+    //bknz. StudentClass...
 
     private int no;
     private String isim;
