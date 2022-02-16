@@ -1,6 +1,7 @@
 package OOP;
 
 public class StudentClass {
+    //bknz. ClassStudent....
 
     public static void main(String[] args) {
 
